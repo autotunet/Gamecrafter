@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Block Blast Rush</string>
+    <string name="title_classic">クラシックモード</string>
+    <string name="title_adventure">アドベンチャーモード</string>
+    <string name="title_daily">デイリーチャレンジ</string>
+    <string name="title_stats">統計とトロフィー</string>
+    <string name="score_label">スコア</string>
+    <string name="best_score_label">ハイスコア</string>
+    <string name="combo_streak">コンボ連鎖</string>
+    <string name="game_over">ゲームオーバー</string>
+    <string name="game_over_desc">盤面にこれ以上ブロックを配置できません。</string>
+    <string name="play_again">もう一度遊ぶ</string>
+    <string name="pause">一時停止</string>
+    <string name="resume">再開</string>
+    <string name="restart">リスタート</string>
+    <string name="main_menu">メインメニュー</string>
+    <string name="theme_neon">ネオングロー</string>
+    <string name="theme_wood">禅ウッド</string>
+    <string name="theme_candy">キャンディポップ</string>
+    <string name="theme_galaxy">ギャラクシー</string>
+    <string name="powerup_rotate">回転</string>
+    <string name="powerup_hammer">ハンマー</string>
+    <string name="powerup_bomb">3x3爆弾</string>
+    <string name="powerup_refresh">更新</string>
+    <string name="level_cleared">ステージクリア！</string>
+    <string name="next_level">次のステージ</string>
+    <string name="settings">設定</string>
+    <string name="sound">効果音</string>
+    <string name="vibration">バイブレーション</string>
+    <string name="rules_title">遊び方</string>
+    <string name="language">言語</string>
+</resources>

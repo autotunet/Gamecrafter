@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Block Blast Rush</string>
+    <string name="title_classic">Classic Mode</string>
+    <string name="title_adventure">Adventure Mode</string>
+    <string name="title_daily">Daily Challenge</string>
+    <string name="title_stats">Stats &amp; Trophies</string>
+    <string name="score_label">SCORE</string>
+    <string name="best_score_label">HIGH SCORE</string>
+    <string name="combo_streak">COMBO STREAK</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="game_over_desc">No more blocks fit on the board.</string>
+    <string name="play_again">Play Again</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="theme_neon">Neon Glow</string>
+    <string name="theme_wood">Zen Wood</string>
+    <string name="theme_candy">Candy Pop</string>
+    <string name="theme_galaxy">Galaxy</string>
+    <string name="powerup_rotate">Rotate</string>
+    <string name="powerup_hammer">Hammer</string>
+    <string name="powerup_bomb">3x3 Bomb</string>
+    <string name="powerup_refresh">Refresh</string>
+    <string name="level_cleared">Level Complete!</string>
+    <string name="next_level">Next Level</string>
+    <string name="settings">Settings</string>
+    <string name="sound">Sound Effects</string>
+    <string name="vibration">Haptic Vibration</string>
+    <string name="rules_title">How to Play?</string>
+    <string name="language">Language</string>
+</resources>

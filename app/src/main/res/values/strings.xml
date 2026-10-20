@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Block Blast Rush</string>
+    <string name="title_classic">Modo Clásico</string>
+    <string name="title_adventure">Modo Aventura</string>
+    <string name="title_daily">Reto Diario</string>
+    <string name="title_stats">Estadísticas</string>
+    <string name="score_label">PUNTOS</string>
+    <string name="best_score_label">RÉCORD</string>
+    <string name="combo_streak">RACHA COMBO</string>
+    <string name="game_over">¡JUEGO TERMINADO!</string>
+    <string name="game_over_desc">No caben más bloques en el tablero.</string>
+    <string name="play_again">Jugar de Nuevo</string>
+    <string name="pause">Pausa</string>
+    <string name="resume">Reanudar</string>
+    <string name="restart">Reiniciar</string>
+    <string name="main_menu">Menú Principal</string>
+    <string name="theme_neon">Neón Glow</string>
+    <string name="theme_wood">Madera Zen</string>
+    <string name="theme_candy">Caramelo Pop</string>
+    <string name="theme_galaxy">Galaxia</string>
+    <string name="powerup_rotate">Girar</string>
+    <string name="powerup_hammer">Martillo</string>
+    <string name="powerup_bomb">Bomba 3x3</string>
+    <string name="powerup_refresh">Cambiar</string>
+    <string name="level_cleared">¡Nivel Superado!</string>
+    <string name="next_level">Siguiente Nivel</string>
+    <string name="settings">Ajustes</string>
+    <string name="sound">Efectos de Sonido</string>
+    <string name="vibration">Vibración Háptica</string>
+    <string name="rules_title">¿Cómo jugar?</string>
+    <string name="language">Idioma</string>
+    <string name="title_timed">Modo Contrarreloj</string>
+    <string name="difficulty">Dificultad</string>
+</resources>
+

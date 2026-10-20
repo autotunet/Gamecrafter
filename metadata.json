@@ -1,0 +1,6 @@
+{
+  "name": "Block Blast Rush",
+  "description": "¡El adictivo y divertido juego de puzzle de bloques! Coloca piezas, llena filas y columnas, desata combos explosivos, supera retos y bate récords.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

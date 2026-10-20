@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Block Blast Rush</string>
+    <string name="title_classic">Mode Classique</string>
+    <string name="title_adventure">Mode Aventure</string>
+    <string name="title_daily">Défi Quotidien</string>
+    <string name="title_stats">Statistiques</string>
+    <string name="score_label">SCORE</string>
+    <string name="best_score_label">RECORD</string>
+    <string name="combo_streak">SÉRIE COMBO</string>
+    <string name="game_over">PARTIE TERMINÉE</string>
+    <string name="game_over_desc">Plus aucun bloc ne peut être placé.</string>
+    <string name="play_again">Rejouer</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Reprendre</string>
+    <string name="restart">Recommencer</string>
+    <string name="main_menu">Menu Principal</string>
+    <string name="theme_neon">Éclat Néon</string>
+    <string name="theme_wood">Bois Zen</string>
+    <string name="theme_candy">Bonbon Pop</string>
+    <string name="theme_galaxy">Galaxie</string>
+    <string name="powerup_rotate">Pivoter</string>
+    <string name="powerup_hammer">Marteau</string>
+    <string name="powerup_bomb">Bombe 3x3</string>
+    <string name="powerup_refresh">Changer</string>
+    <string name="level_cleared">Niveau Réussi !</string>
+    <string name="next_level">Niveau Suivant</string>
+    <string name="settings">Paramètres</string>
+    <string name="sound">Effets Sonores</string>
+    <string name="vibration">Vibration Haptique</string>
+    <string name="rules_title">Comment Jouer ?</string>
+    <string name="language">Langue</string>
+</resources>
